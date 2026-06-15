@@ -1,6 +1,0 @@
-{
-  "name": "아빠모드",
-  "description": "퇴근길 3분 동안 마음을 정리하고 가족에게 따뜻한 아빠로 전환되도록 돕는 앱",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

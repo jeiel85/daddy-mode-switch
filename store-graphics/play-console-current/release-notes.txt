@@ -1,0 +1,6 @@
+<ko-KR>
+아빠모드 첫 출시입니다. 퇴근 전 기분 점검, 3분 호흡, 가족에게 건넬 따뜻한 첫마디, 오늘의 작은 가족 행동까지 한 흐름으로 이어 집에 들어가기 전 마음을 정리하도록 도와줍니다. 모든 기록은 기기 안에만 안전하게 저장됩니다.
+</ko-KR>
+<en-US>
+The first release of Daddy Mode. Check your mood after work, do a short 3-minute breathing routine, pick a warm first phrase for your family, and record one small family action — all in one flow to help you reset before you walk through the door. Everything stays private on your device.
+</en-US>
