@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cozy Orange-Amber House structure centered perfectly inside viewport -->
+    <path
+        android:fillColor="#ED8936"
+        android:pathData="M54,20 L18,50 L26,50 L26,84 L82,84 L82,50 L90,50 Z" />
+
+    <!-- Cozy White Arched entranceway -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,84 L44,64 C44,58 64,58 64,64 L64,84 Z" />
+
+    <!-- A loving, deep warm heart centered nicely inside the rooftop -->
+    <path
+        android:fillColor="#F66D44"
+        android:pathData="M54,48 C54,48 49,43.5 49,39 C49,35.5 51.5,33.5 54,33.5 C55.5,33.5 57,34.5 57,36 C57,34.5 58.5,33.5 60,33.5 C62.5,33.5 65,35.5 65,39 C65,43.5 60,48 60,48 Z" />
+
+</vector>
