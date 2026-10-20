@@ -121,6 +121,27 @@ h2 {
   color: var(--muted);
 }
 
+.site-footer {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 40px;
+  border-top: 1px solid #dbe3ec;
+}
+
+.site-footer a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  color: var(--navy);
+}
+
 @media (max-width: 760px) {
   .hero {
     min-height: 620px;
